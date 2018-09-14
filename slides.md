@@ -142,7 +142,7 @@ Ultimately up to the team.
 
 # How? - Avoid
 
-## Bitching and blaming
+## Blaming
 
 --
 

@@ -19,6 +19,8 @@ PMs you could have your own retrospectives.
 
 FE or BE Tribes you could have your own retrospectives.
 
+This talk focuses more on the how than the why
+
 ***
 
 ## Why?
@@ -43,11 +45,7 @@ If there's only two of you then you might get away being less formal.
 It may be useful to have a PM involved (occassionally) - particularly if problems require changes to client or wider process (e.g. timing of meetings, JIRA vs Basecamp flamewars).
 But the purpose is to make your lives as developers easier not fix the project.
 
-
-
-
-
-But NB it doesn't have to be devs.
+But it doesn't have to be devs on the same project.
 
 PMs you could have your own retrospectives.
 
@@ -57,14 +55,10 @@ FE or BE Tribes you could have your own retrospectives.
 
 ## When?
 
-Often enough that events are still fresh.
+Often enough that events are still fresh and there's still a chance to change.
 End of project is too late.
 
 Not so often you can't do actual work or have enough time to change things.
-
-***
-
-## When?
 
 Perhaps fortnightly or weekly.
 
@@ -73,16 +67,6 @@ I recommend regular schedule or else it doesn't happen.
 Can be good to match up with a planning session between "sprints".
 
 ***
-
-## How?
-
-1. Start
-2. Gather Data 
-3. Generate Insight
-4. Decide Actions
-5. End
-
-
 
 ## How??
 
@@ -102,7 +86,6 @@ Before the retrospective, the team is asked to prepare up to 6 items which answe
 * what to **stop** doing?
 
 At the retrospective, in turn everyone shares an item.
-
 
 
 ## How?? - Generate Insight example
@@ -153,7 +136,7 @@ a retrospective on retrospectives: improve your retrospectives.
 
 ## How?? - Avoid
 
-AVOID BLAMING OR BITCHING
+AVOID BLAMING
 
 Avoid spending too long on issues you can't fix on your own (e.g. client's business plans or salaries).
 These issues and your opinions may well be important
