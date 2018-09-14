@@ -23,7 +23,7 @@ controls: true
 
 This talk is focussed on agile retrospectives for a tech team on a project.
 
-But it doesn't have to be just devs on the same project.
+But they don't have to.
 
 --
 
