@@ -1,0 +1,5 @@
+# ignore built versions (HTML and PDF)
+slides.html
+slides.pdf
+printable-slides.html
+speaker-notes.pdf
