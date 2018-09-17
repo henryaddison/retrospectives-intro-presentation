@@ -7,6 +7,26 @@ These are the slides for a short presentation introducing retrospectives that I 
 * [cleaver](https://github.com/jdan/cleaver)
 
 ## Usage
+
+Releases will include built versions of the slides.
+
+The instructions to build your own follow.
+
+### Slides for browser user
 ```bash
-cleaver slides.md
+make slides.html
+open slides.html
+```
+
+### Printer friendly version of slides
+```bash
+make printable-slides.html
+open printable-slides.html
+```
+The releases also contain a PDF version of these printer-friendly slides.
+
+### Speaker notes as PDF
+```bash
+make speaker-notes.pdf
+open speaker-notes.pdf
 ```
